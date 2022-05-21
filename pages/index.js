@@ -13,40 +13,159 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          the Gospel of <a href="https://mark.vercel.app"> Mark</a>
+          the Gospel of <a href="#"> Mark</a>
         </h1>
 
         <p className={styles.description}>
         <code> Each Card contains a chapter{' '}
-         of Mark's gospel</code>
+         in Mark's gospel</code>
         </p>
 
         <div className={styles.grid}>
-          <a href="https://nextjs.org/docs" className={styles.card}>
+          <a href="#" className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
-            <p>Find in-depth information about Next.js features and API.</p>
+            <p>This card will hold the full content of chapter 1</p>
           </a>
 
-          <a href="https://nextjs.org/learn" className={styles.card}>
+          <a href="#" className={styles.card}>
             <h2>Chapter 2 &darr;</h2>
-            <p>Learn about Next.js in an interactive course with quizzes!</p>
+            <p>This card will hold the full content of chapter 2</p>
           </a>
 
           <a
             href="https://github.com/vercel/next.js/tree/canary/examples"
             className={styles.card}
           >
-            <h2>Examples &rarr;</h2>
-            <p>Discover and deploy boilerplate example Next.js projects.</p>
+            <h2>Chapter 3 &darr;</h2>
+            <p>This card will hold the full content of chapter 3</p>
           </a>
 
           <a
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
+            href="#"
             className={styles.card}
           >
-            <h2>Deploy &rarr;</h2>
+            <h2>Chapter 4 &rarr;</h2>
             <p>
-              Instantly deploy your Next.js site to a public URL with Vercel.
+            This card will hold the full content of chapter 4
+            </p>
+          </a>
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 5 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 5
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 6 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 6
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 7 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 7
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 8 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 8
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 9 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 9
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 10 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 10
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 11 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 11
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 12 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 12
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 13 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 13
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 14 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 14
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 15 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 15
+            </p>
+          </a>
+
+          <a
+            href="#"
+            className={styles.card}
+          >
+            <h2>Chapter 16 &rarr;</h2>
+            <p>
+            This card will hold the full content of chapter 16
             </p>
           </a>
         </div>
