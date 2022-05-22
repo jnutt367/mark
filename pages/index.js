@@ -44,7 +44,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 4 &rarr;</h2>
+            <h2>Chapter 4 &darr;</h2>
             <p>
             This card will hold the full content of chapter 4
             </p>
@@ -53,7 +53,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 5 &rarr;</h2>
+            <h2>Chapter 5 &darr;</h2>
             <p>
             This card will hold the full content of chapter 5
             </p>
@@ -63,7 +63,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 6 &rarr;</h2>
+            <h2>Chapter 6 &darr;</h2>
             <p>
             This card will hold the full content of chapter 6
             </p>
@@ -73,7 +73,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 7 &rarr;</h2>
+            <h2>Chapter 7 &darr;</h2>
             <p>
             This card will hold the full content of chapter 7
             </p>
@@ -83,7 +83,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 8 &rarr;</h2>
+            <h2>Chapter 8 &darr;</h2>
             <p>
             This card will hold the full content of chapter 8
             </p>
@@ -93,7 +93,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 9 &rarr;</h2>
+            <h2>Chapter 9 &darr;</h2>
             <p>
             This card will hold the full content of chapter 9
             </p>
@@ -103,7 +103,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 10 &rarr;</h2>
+            <h2>Chapter 10 &darr;</h2>
             <p>
             This card will hold the full content of chapter 10
             </p>
@@ -113,7 +113,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 11 &rarr;</h2>
+            <h2>Chapter 11 &darr;</h2>
             <p>
             This card will hold the full content of chapter 11
             </p>
@@ -123,7 +123,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 12 &rarr;</h2>
+            <h2>Chapter 12 &darr;</h2>
             <p>
             This card will hold the full content of chapter 12
             </p>
@@ -133,7 +133,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 13 &rarr;</h2>
+            <h2>Chapter 13 &darr;</h2>
             <p>
             This card will hold the full content of chapter 13
             </p>
@@ -143,7 +143,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 14 &rarr;</h2>
+            <h2>Chapter 14 &darr;</h2>
             <p>
             This card will hold the full content of chapter 14
             </p>
@@ -153,7 +153,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 15 &rarr;</h2>
+            <h2>Chapter 15 &darr;</h2>
             <p>
             This card will hold the full content of chapter 15
             </p>
@@ -163,7 +163,7 @@ export default function Home() {
             href="#"
             className={styles.card}
           >
-            <h2>Chapter 16 &rarr;</h2>
+            <h2>Chapter 16 &darr;</h2>
             <p>
             This card will hold the full content of chapter 16
             </p>
