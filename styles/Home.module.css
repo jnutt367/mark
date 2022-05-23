@@ -42,7 +42,7 @@
 }
 
 .title {
-    margin: 0;
+    margin: 3rem;
     line-height: 1.15;
     font-size: 4rem;
     font-family: cursive;
@@ -75,11 +75,18 @@
     max-width: 1400px;
 }
 
+.illustration {
+    padding-top: 3rem;
+    border-radius: 15px;
+}
+
 .card {
     margin: 1rem;
     padding: 1.5rem;
     text-align: left;
     color: inherit;
+    max-height: 300px;
+    overflow: scroll;
     text-decoration: none;
     border: 1px solid #eaeaea;
     border-radius: 10px;
@@ -95,6 +102,7 @@
     border-color: hsl(14, 100%, 48%);
     background-color: palevioletred;
     opacity: 0.85;
+    overflow: scroll;
     font-family: fantasy;
 }
 
