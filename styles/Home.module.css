@@ -98,7 +98,7 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: purple;
+    color: black;
     border-color: hsl(212, 100%, 48%);
     background-image: url(/jesus.gif);
     opacity: 0.85;
