@@ -25,7 +25,7 @@ export default function Home() {
         />
        </a>
         <p className={styles.description}>
-        <code> Each Card contains a chapter{' '}
+        <code className={styles.publisher}> Each Card contains a chapter{' '}
          in Mark's gospel</code>
         </p>
 
