@@ -30,7 +30,7 @@ export default function Home() {
         </p>
 
         <div className={styles.grid}>
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 1 &darr;</h2>
             <p>John the Baptist Prepares the Way
 1 The beginning of the good news about Jesus the Messiah,[a] the Son of God,[b] 2 as it is written in Isaiah the prophet:
@@ -81,9 +81,9 @@ Jesus Heals a Man With Leprosy
 43 Jesus sent him away at once with a strong warning: 44 “See that you don’t tell this to anyone. But go, show yourself to the priest and offer the sacrifices that Moses commanded for your cleansing, as a testimony to them.” 45 Instead he went out and began to talk freely, spreading the news. As a result, Jesus could no longer enter a town openly but stayed outside in lonely places. Yet the people still came to him from everywhere.
 
 </p>
-          </a>
+          </div>
 
-          <a href="#" className={styles.card}>
+          <div className={styles.card}>
             <h2>Chapter 2 &darr;</h2>
             <p>Jesus Forgives and Heals a Paralyzed Man
 2 A few days later, when Jesus again entered Capernaum, the people heard that he had come home. 2 They gathered in such large numbers that there was no room left, not even outside the door, and he preached the word to them. 3 Some men came, bringing to him a paralyzed man, carried by four of them. 4 Since they could not get him to Jesus because of the crowd, they made an opening in the roof above Jesus by digging through it and then lowered the mat the man was lying on. 5 When Jesus saw their faith, he said to the paralyzed man, “Son, your sins are forgiven.”
@@ -112,10 +112,9 @@ Jesus Is Lord of the Sabbath
 25 He answered, “Have you never read what David did when he and his companions were hungry and in need? 26 In the days of Abiathar the high priest, he entered the house of God and ate the consecrated bread, which is lawful only for priests to eat. And he also gave some to his companions.”
 
 27 Then he said to them, “The Sabbath was made for man, not man for the Sabbath. 28 So the Son of Man is Lord even of the Sabbath.”</p>
-          </a>
+          </div>
 
-          <a
-            href="https://github.com/vercel/next.js/tree/canary/examples"
+          <div
             className={styles.card}
           >
             <h2>Chapter 3 &darr;</h2>
@@ -146,10 +145,9 @@ Jesus Accused by His Family and by Teachers of the Law
 33 “Who are my mother and my brothers?” he asked.
 
 34 Then he looked at those seated in a circle around him and said, “Here are my mother and my brothers! 35 Whoever does God’s will is my brother and sister and mother.”</p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 4 &darr;</h2>
@@ -189,9 +187,8 @@ Jesus Calms the Storm
 
 41 They were terrified and asked each other, “Who is this? Even the wind and the waves obey him!”
             </p>
-          </a>
-          <a
-            href="#"
+          </div>
+          <div
             className={styles.card}
           >
             <h2>Chapter 5 &darr;</h2>
@@ -230,10 +227,9 @@ A large crowd followed and pressed around him. 25 And a woman was there who had 
 
 After he put them all out, he took the child’s father and mother and the disciples who were with him, and went in where the child was. 41 He took her by the hand and said to her, “Talitha koum!” (which means “Little girl, I say to you, get up!”). 42 Immediately the girl stood up and began to walk around (she was twelve years old). At this they were completely astonished. 43 He gave strict orders not to let anyone know about this, and told them to give her something to eat.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 6 &darr;</h2>
@@ -303,10 +299,9 @@ Immediately he spoke to them and said, “Take courage! It is I. Don’t be afra
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 7 &darr;</h2>
@@ -353,10 +348,9 @@ Jesus Heals a Deaf and Mute Man
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 8 &darr;</h2>
@@ -417,10 +411,9 @@ The Way of the Cross
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 9 &darr;</h2>
@@ -481,10 +474,9 @@ The Way of the Cross
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 10 &darr;</h2>
@@ -545,10 +537,9 @@ The Way of the Cross
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 11 &darr;</h2>
@@ -594,10 +585,9 @@ Jesus said, “Neither will I tell you by what authority I am doing these things
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 12 &darr;</h2>
@@ -663,10 +653,9 @@ The Widow’s Offering
 
 43 Calling his disciples to him, Jesus said, “Truly I tell you, this poor widow has put more into the treasury than all the others. 44 They all gave out of their wealth; but she, out of her poverty, put in everything—all she had to live on.”
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 13 &darr;</h2>
@@ -706,10 +695,9 @@ The Day and Hour Unknown
 
 
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 14 &darr;</h2>
@@ -812,10 +800,9 @@ After a little while, those standing near said to Peter, “Surely you are one o
 
 72 Immediately the rooster crowed the second time.[h] Then Peter remembered the word Jesus had spoken to him: “Before the rooster crows twice[i] you will disown me three times.” And he broke down and wept.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 15 &darr;</h2>
@@ -871,10 +858,9 @@ The Death of Jesus
 The Burial of Jesus
 42 It was Preparation Day (that is, the day before the Sabbath). So as evening approached, 43 Joseph of Arimathea, a prominent member of the Council, who was himself waiting for the kingdom of God, went boldly to Pilate and asked for Jesus’ body. 44 Pilate was surprised to hear that he was already dead. Summoning the centurion, he asked him if Jesus had already died. 45 When he learned from the centurion that it was so, he gave the body to Joseph. 46 So Joseph bought some linen cloth, took down the body, wrapped it in the linen, and placed it in a tomb cut out of rock. Then he rolled a stone against the entrance of the tomb. 47 Mary Magdalene and Mary the mother of Joseph saw where he was laid.
             </p>
-          </a>
+          </div>
 
-          <a
-            href="#"
+          <div
             className={styles.card}
           >
             <h2>Chapter 16 &darr;</h2>
@@ -902,7 +888,7 @@ The Burial of Jesus
 
 
             </p>
-          </a>
+          </div>
         </div>
         <p className={styles.description}> 
         <code className={styles.publisher}>
