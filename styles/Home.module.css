@@ -14,6 +14,17 @@
     align-items: center;
 }
 
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: cursive;
+}
+
 .footer {
     display: flex;
     flex: 1;
