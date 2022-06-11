@@ -89,7 +89,7 @@
     text-shadow: 5px 5px black;
 }
 
-.nav ul {
+.nav ul li {
     display: flex;
     flex-basis: auto;
     color: #fafafa;
@@ -100,8 +100,8 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
-.nav ul li:hover {
-    color: black;
+.nav ul:hover {
+    color: orange;
     text-decoration: underline;
 }
 
