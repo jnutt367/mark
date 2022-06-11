@@ -1,11 +1,13 @@
 .container {
     padding: 0 2rem;
-    background-image: url(/gold.gif);
+    background-image: url(/cloud_lightning.webp);
     background-size: contain;
 }
 
 .main {
     background-color: #eaeaea;
+    background-size: contain;
+    background-size: contain;
     min-height: 100vh;
     padding: 4rem 0;
     flex: 1;
@@ -14,17 +16,6 @@
     justify-content: center;
     align-items: center;
     border-radius: 15px;
-}
-
-.nav ul {
-    display: flex;
-    flex-basis: auto;
-    color: #fafafa;
-    justify-content: space-around;
-    list-style: none;
-    font-size: xx-large;
-    padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .footer {
@@ -43,8 +34,19 @@
     flex-grow: 1;
 }
 
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
 .title a {
-    color: white;
+    color: rgba(214, 123, 20, 0.993);
     text-decoration: none;
 }
 
@@ -55,7 +57,7 @@
 }
 
 .title {
-    margin: 2rem;
+    margin: 0;
     line-height: 1.15;
     font-size: 4rem;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -70,15 +72,37 @@
     margin: 4rem 0;
     line-height: 1.5;
     font-size: 1.5rem;
-    color: #eaeaea;
 }
 
 .code {
-    background: #fafafa;
     border-radius: 5px;
-    padding: 0.75rem;
+    color: white;
+    background-image: url(/cloud_lightning.webp);
+    padding: 3rem;
     font-size: 1.1rem;
+    font-weight: 900;
     font-family: Menlo, Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+}
+
+.code:hover {
+    color: white;
+    text-shadow: 5px 5px black;
+}
+
+.nav ul {
+    display: flex;
+    flex-basis: auto;
+    color: #fafafa;
+    justify-content: space-around;
+    list-style: none;
+    font-size: xx-large;
+    padding-top: 3rem;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.nav ul li:hover {
+    color: black;
+    text-decoration: underline;
 }
 
 .grid {
@@ -92,6 +116,7 @@
 .illustration {
     padding-top: 3rem;
     border-radius: 15px;
+    margin-right: 3rem;
 }
 
 .card {
@@ -112,13 +137,14 @@
 .card:hover,
 .card:focus,
 .card:active {
-    color: white;
+    color: black;
+    text-underline-position: above;
     border-color: hsl(212, 100%, 48%);
-    background-image: url(/gold.gif);
+    background-image: url(/monophy.gif);
     background-repeat: no-repeat;
     background-size: cover;
-    background-color: black;
-    opacity: 0.85;
+    background-color: white;
+    opacity: 0.75;
     overflow: scroll;
     font-family: monospace;
 }
@@ -129,10 +155,21 @@
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
+.card h2:hover {
+    text-decoration: underline;
+    color: black;
+}
+
 .card p {
     margin: 0;
     font-size: 1.25rem;
     line-height: 1.5;
+    font-family: monospace;
+}
+
+.card p:hover {
+    text-decoration: underline;
+    font-weight: 900;
 }
 
 .logo {
