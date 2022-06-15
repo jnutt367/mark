@@ -45,15 +45,7 @@ export default function Home() {
         <h1 className={styles.title}>
           The Gospel of <a href="#"> Mark</a>
         </h1>
-        <a href="https://freesvg.org/drawing-of-word-jesus-written-in-shape-of-fish">
-        <Image 
-          src="/WS_Gospel_Poster.jpeg"
-          alt="new testament illustration"
-          layout="intrinsic"
-          height="1000px"
-          width="1000px"
-        />
-        </a>
+       
         <p className={styles.description}>
           
           <code className={styles.publisher}>Click & Scroll through each chapter in Mark's gospel </code>
