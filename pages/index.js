@@ -60,12 +60,12 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          The Gospel of <a href="#"> Mark</a>
+          <a href="https://en.wikipedia.org/wiki/Mark"> Mark</a>
         </h1>
        
         <p className={styles.description}>
           
-          <code className={styles.publisher}>Click & Scroll through each chapter in Mark's gospel </code>
+          <code className={styles.publisher}>&darr; Scroll &darr;</code>
         </p>
 
         <div className={styles.grid}>
