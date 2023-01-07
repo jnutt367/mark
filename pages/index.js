@@ -893,6 +893,7 @@ The Burial of Jesus
             </p>
           </div>
         </div>
+</div>
         <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
