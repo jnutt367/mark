@@ -251,8 +251,8 @@
 }
 
 .publisher {
-    font-family: monospace;
-    color: orange;
+    font-family: Arial, Verdana, Tahoma, Trebuchet MS, Times New Roman, Georgia, Garamond, Courier New, Brush Script MT; 
+    color: flex;
     font-size: 2.5rem;
     margin-left: 2rem;
 }
@@ -275,12 +275,6 @@
     }
 }
 
-@media (max-width: 500px) {
-    .publisher {
-        font-size: 1.5rem;
-    }
-   
-}
 
 @media (min-width: 600px) {
    
