@@ -17,7 +17,7 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          <a href="https://en.wikipedia.org/wiki/Mark"> Mark</a>
+          <a href="https://en.wikipedia.org/wiki/Mark">The Book Of</a>
         </h1>
       <div className={styles.hero}>
        <Image 
