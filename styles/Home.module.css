@@ -119,11 +119,12 @@
 
 
 .button:hover {
-    color: black;
+    color: white;
     background-color: brown;
-    text-shadow: 1.5px 1.5px white;
+    opacity: 0.7;
+    text-shadow: 1px 1px black;
     opacity: 1;
-    border-style: 2p inset black;
+    border-style: 2px inset black;
     cursor:pointer;
 }
 
