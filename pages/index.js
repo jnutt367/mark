@@ -21,7 +21,7 @@ export default function Home() {
         </h1>
       <div className={styles.hero}>
        <Image 
-                                src="/Mark_1.jpg"
+                                src="/trust.webp"
                                 alt="Jesus"
                                 height={900}
                                 width={2000}
