@@ -153,7 +153,20 @@
     color: orange;
     text-decoration: underline;
 }
-
+.nav {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+.button {
+    height: 30px;
+    width: 100px;
+    font-size: 9px;
+    background-color: grey;
+    align-items: center;
+    justify-content: space-between;
+    padding: 10px;
+}
 .grid {
     display: flex;
     align-items: center;
