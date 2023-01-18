@@ -21,7 +21,7 @@ export default function Home() {
         </h1>
       <div className={styles.hero}>
        <Image 
-                                src="/faith-4664706__340.webp"
+                                src="/baptism.jpg"
                                 alt="Jesus"
                                 height={900}
                                 width={2000}
