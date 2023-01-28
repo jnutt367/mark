@@ -20,6 +20,7 @@ export default function Home() {
        MARK
         </h1>
       <div className={styles.hero}>
+         <div  className={styles.image}>
        <Image 
                                 src="/illustration-jesus-baptized-by-john-baptist-biblical-series_29028-345.webp"
                                 alt="Jesus"
@@ -27,6 +28,7 @@ export default function Home() {
                                 width="2000px"
                                 priority
                               />
+           </div>
                <div className={styles.nav}>           
       <a href="https://the-holy-bible.vercel.app/">
             <button className={styles.button}> HOME </button>
