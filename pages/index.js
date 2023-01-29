@@ -24,8 +24,8 @@ export default function Home() {
        <Image 
                                 src="/illustration-jesus-baptized-by-john-baptist-biblical-series_29028-345.webp"
                                 alt="Jesus"
-                                height="auto"
-                                width="2000px"
+                                 height={900}
+                                width={2000}
                                 priority
                               />
            </div>
