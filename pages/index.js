@@ -60,7 +60,7 @@ export default function Home() {
                               />
            
         </a> 
-               
+         </a>      
                    
                </div>
        <h1 className={styles.instructions}>
