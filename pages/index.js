@@ -30,7 +30,7 @@ export default function Home() {
                               />
            </div>
                <div className={styles.nav}>           
-      <a href"https://matthew-coral.vercel.app/">
+      <a href="https://matthew-coral.vercel.app/">
              <Image 
                                 src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
                                 alt="Jesus"
@@ -60,8 +60,7 @@ export default function Home() {
                               />
            
         </a> 
-         </a>      
-                   
+         
                </div>
        <h1 className={styles.instructions}>
         &darr; SCROLL DOWN &darr;
