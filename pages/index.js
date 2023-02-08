@@ -35,39 +35,38 @@ export default function Home() {
                                 priority
                               />
            </div>
-               <div className={styles.nav}>           
-      <a href="https://matthew-coral.vercel.app/">
-             <Image 
-                                src="/702-7024826_computer-back-icon-left-right-arrow-cartoon-arrow.png"
-                                alt="Jesus"
-                                 height={100}
+              <div className={styles.nav}>               
+       <a href="https://the-holy-bible.vercel.app/">
+            <Image
+                                src="/left-arrow.jpg"
+                                alt="Left arrow"
+                                height={100}
                                 width={100}
                                 priority
                               />
        </a>
 
          <a href="#PayPalButton">
-            <Image 
-                                src="/SCROLL-DOWN-button-kopie1.gif"
-                                alt="Jesus"
-                                 height={100}
+           <Image
+                                src="/down.jpg"
+                                alt="Donate Button"
+                                height={100}
                                 width={100}
                                 priority
                               />
-           
+          
         </a> 
-         <a href="https://luke-three.vercel.app/">
-           <Image 
-                                src="/jean_victor_balin_arrow_orange_right.png"
-                                alt="Jesus"
-                                 height={100}
+           
+        <a href="https://mark-alpha.vercel.app/">
+            <Image
+                                src="/right-arrow.jpg"
+                                alt="right arrow"
+                                height={100}
                                 width={100}
                                 priority
                               />
-           
-        </a> 
-         
-               </div>
+       </a>           
+        </div>
       
         <div className={styles.grid}>
           <div className={styles.card}>
