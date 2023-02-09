@@ -36,7 +36,7 @@ export default function Home() {
                               />
            </div>
               <div className={styles.nav}>               
-       <a href="https://the-holy-bible.vercel.app/">
+       <a href="https://matthew-coral.vercel.app/">
             <Image
                                 src="/left-arrow.jpg"
                                 alt="Left arrow"
@@ -57,7 +57,7 @@ export default function Home() {
           
         </a> 
            
-        <a href="https://mark-alpha.vercel.app/">
+        <a href="https://luke-three.vercel.app/">
             <Image
                                 src="/right-arrow.jpg"
                                 alt="right arrow"
