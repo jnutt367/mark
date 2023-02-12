@@ -70,7 +70,7 @@ export default function Home() {
       
         <div className={styles.grid}>
           <div className={styles.card}>
-            <h2>Chapter 1 &darr;</h2>
+           <h2  className={styles.chapter}>Mark Chapter I</h2>
             <p>John the Baptist Prepares the Way
 1 The beginning of the good news about Jesus the Messiah,[a] the Son of God,[b] 2 as it is written in Isaiah the prophet:
 
@@ -123,7 +123,7 @@ Jesus Heals a Man With Leprosy
           </div>
 
           <div className={styles.card}>
-            <h2>Chapter 2 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter II</h2>
             <p>Jesus Forgives and Heals a Paralyzed Man
 2 A few days later, when Jesus again entered Capernaum, the people heard that he had come home. 2 They gathered in such large numbers that there was no room left, not even outside the door, and he preached the word to them. 3 Some men came, bringing to him a paralyzed man, carried by four of them. 4 Since they could not get him to Jesus because of the crowd, they made an opening in the roof above Jesus by digging through it and then lowered the mat the man was lying on. 5 When Jesus saw their faith, he said to the paralyzed man, “Son, your sins are forgiven.”
 
@@ -156,7 +156,7 @@ Jesus Is Lord of the Sabbath
           <div
             className={styles.card}
           >
-            <h2>Chapter 3 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter III</h2>
             <p>Jesus Heals on the Sabbath
 3 Another time Jesus went into the synagogue, and a man with a shriveled hand was there. 2 Some of them were looking for a reason to accuse Jesus, so they watched him closely to see if he would heal him on the Sabbath. 3 Jesus said to the man with the shriveled hand, “Stand up in front of everyone.”
 
@@ -189,7 +189,7 @@ Jesus Accused by His Family and by Teachers of the Law
           <div
             className={styles.card}
           >
-            <h2>Chapter 4 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter IV</h2>
             <p>
             The Parable of the Sower
 4 Again Jesus began to teach by the lake. The crowd that gathered around him was so large that he got into a boat and sat in it out on the lake, while all the people were along the shore at the water’s edge. 2 He taught them many things by parables, and in his teaching said: 3 “Listen! A farmer went out to sow his seed. 4 As he was scattering the seed, some fell along the path, and the birds came and ate it up. 5 Some fell on rocky places, where it did not have much soil. It sprang up quickly, because the soil was shallow. 6 But when the sun came up, the plants were scorched, and they withered because they had no root. 7 Other seed fell among thorns, which grew up and choked the plants, so that they did not bear grain. 8 Still other seed fell on good soil. It came up, grew and produced a crop, some multiplying thirty, some sixty, some a hundred times.”
@@ -230,7 +230,7 @@ Jesus Calms the Storm
           <div
             className={styles.card}
           >
-            <h2>Chapter 5 &darr;</h2>
+           <h2  className={styles.chapter}>Mark Chapter V</h2>
             <p>
             Jesus Restores a Demon-Possessed Man
 5 They went across the lake to the region of the Gerasenes.[a] 2 When Jesus got out of the boat, a man with an impure spirit came from the tombs to meet him. 3 This man lived in the tombs, and no one could bind him anymore, not even with a chain. 4 For he had often been chained hand and foot, but he tore the chains apart and broke the irons on his feet. No one was strong enough to subdue him. 5 Night and day among the tombs and in the hills he would cry out and cut himself with stones.
@@ -271,7 +271,7 @@ After he put them all out, he took the child’s father and mother and the disci
           <div
             className={styles.card}
           >
-            <h2>Chapter 6 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter VI</h2>
             <p>
             A Prophet Without Honor
 6 Jesus left there and went to his hometown, accompanied by his disciples. 2 When the Sabbath came, he began to teach in the synagogue, and many who heard him were amazed.
@@ -343,7 +343,7 @@ Immediately he spoke to them and said, “Take courage! It is I. Don’t be afra
           <div
             className={styles.card}
           >
-            <h2>Chapter 7 &darr;</h2>
+             <h2  className={styles.chapter}>Mark Chapter VII</h2>
             <p>
             That Which Defiles
 7 The Pharisees and some of the teachers of the law who had come from Jerusalem gathered around Jesus 2 and saw some of his disciples eating food with hands that were defiled, that is, unwashed. 3 (The Pharisees and all the Jews do not eat unless they give their hands a ceremonial washing, holding to the tradition of the elders. 4 When they come from the marketplace they do not eat unless they wash. And they observe many other traditions, such as the washing of cups, pitchers and kettles.[a])
@@ -392,7 +392,7 @@ Jesus Heals a Deaf and Mute Man
           <div
             className={styles.card}
           >
-            <h2>Chapter 8 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter VIII</h2>
             <p>
             Jesus Feeds the Four Thousand
 8 During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said, 2 “I have compassion for these people; they have already been with me three days and have nothing to eat. 3 If I send them home hungry, they will collapse on the way, because some of them have come a long distance.”
@@ -455,7 +455,7 @@ The Way of the Cross
           <div
             className={styles.card}
           >
-            <h2>Chapter 9 &darr;</h2>
+             <h2  className={styles.chapter}>Mark Chapter IX</h2>
             <p>
             Jesus Feeds the Four Thousand
 8 During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said, 2 “I have compassion for these people; they have already been with me three days and have nothing to eat. 3 If I send them home hungry, they will collapse on the way, because some of them have come a long distance.”
@@ -518,7 +518,7 @@ The Way of the Cross
           <div
             className={styles.card}
           >
-            <h2>Chapter 10 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter X</h2>
             <p>
             Jesus Feeds the Four Thousand
 8 During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said, 2 “I have compassion for these people; they have already been with me three days and have nothing to eat. 3 If I send them home hungry, they will collapse on the way, because some of them have come a long distance.”
@@ -581,7 +581,7 @@ The Way of the Cross
           <div
             className={styles.card}
           >
-            <h2>Chapter 11 &darr;</h2>
+             <h2  className={styles.chapter}>Mark Chapter XI</h2>
             <p>
             Jesus Comes to Jerusalem as King
 11 As they approached Jerusalem and came to Bethphage and Bethany at the Mount of Olives, Jesus sent two of his disciples, 2 saying to them, “Go to the village ahead of you, and just as you enter it, you will find a colt tied there, which no one has ever ridden. Untie it and bring it here. 3 If anyone asks you, ‘Why are you doing this?’ say, ‘The Lord needs it and will send it back here shortly.’”
@@ -629,7 +629,7 @@ Jesus said, “Neither will I tell you by what authority I am doing these things
           <div
             className={styles.card}
           >
-            <h2>Chapter 12 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter XII</h2>
             <p>
             The Parable of the Tenants
 12 Jesus then began to speak to them in parables: “A man planted a vineyard. He put a wall around it, dug a pit for the winepress and built a watchtower. Then he rented the vineyard to some farmers and moved to another place. 2 At harvest time he sent a servant to the tenants to collect from them some of the fruit of the vineyard. 3 But they seized him, beat him and sent him away empty-handed. 4 Then he sent another servant to them; they struck this man on the head and treated him shamefully. 5 He sent still another, and that one they killed. He sent many others; some of them they beat, others they killed.
@@ -697,7 +697,7 @@ The Widow’s Offering
           <div
             className={styles.card}
           >
-            <h2>Chapter 13 &darr;</h2>
+           X <h2  className={styles.chapter}>Mark Chapter XIII</h2>
             <p>
             The Destruction of the Temple and Signs of the End Times
 13 As Jesus was leaving the temple, one of his disciples said to him, “Look, Teacher! What massive stones! What magnificent buildings!”
@@ -739,7 +739,7 @@ The Day and Hour Unknown
           <div
             className={styles.card}
           >
-            <h2>Chapter 14 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter XIV</h2>
             <p>
             Jesus Anointed at Bethany
 14 Now the Passover and the Festival of Unleavened Bread were only two days away, and the chief priests and the teachers of the law were scheming to arrest Jesus secretly and kill him. 2 “But not during the festival,” they said, “or the people may riot.”
@@ -844,7 +844,7 @@ After a little while, those standing near said to Peter, “Surely you are one o
           <div
             className={styles.card}
           >
-            <h2>Chapter 15 &darr;</h2>
+            <h2  className={styles.chapter}>Mark Chapter XV</h2>
             <p>
             Jesus Before Pilate
 15 Very early in the morning, the chief priests, with the elders, the teachers of the law and the whole Sanhedrin, made their plans. So they bound Jesus, led him away and handed him over to Pilate.
@@ -902,7 +902,7 @@ The Burial of Jesus
           <div
             className={styles.card}
           >
-            <h2>Chapter 16 &darr;</h2>
+           <h2  className={styles.chapter}>Mark Chapter XVI</h2>
             <p>
             Jesus Has Risen
 16 When the Sabbath was over, Mary Magdalene, Mary the mother of James, and Salome bought spices so that they might go to anoint Jesus’ body. 2 Very early on the first day of the week, just after sunrise, they were on their way to the tomb 3 and they asked each other, “Who will roll the stone away from the entrance of the tomb?”
