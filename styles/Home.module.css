@@ -106,7 +106,7 @@
 .title a:focus,
 .title a:active {
     text-shadow: 1px 1px white;
-    opacity: 1;
+    opacity: 0.9;
 }
 
 .titleSpan {
