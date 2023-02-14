@@ -106,7 +106,7 @@
 .title a:focus,
 .title a:active {
     text-shadow: 1px 1px white;
-    opacity: 0.9;
+    opacity: 1;
 }
 
 .titleSpan {
@@ -187,8 +187,9 @@
 }
 
 .nav {
-    background-color: black;
-    opacity: 0.175;
+    background-color: #ffa500;
+    opacity: 0.5;
+    padding: 5px;
     display: flex;
     flex-direction: row;
     justify-content: space-around;
