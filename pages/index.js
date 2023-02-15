@@ -40,8 +40,8 @@ export default function Home() {
             <Image className={styles.arrow}
                                 src="/109520-200.png"
                                 alt="Left arrow"
-                                height={50}
-                                width={50}
+                                height={75}
+                                width={75}
                                 priority
                               />
        </a>
@@ -50,8 +50,8 @@ export default function Home() {
            <Image
                                 src="/SCROLL-DOWN-button-kopie1.gif"
                                 alt="Donate Button"
-                                height={100}
-                                width={100}
+                                height={75}
+                                width={75}
                                 priority
                               />
           
@@ -61,8 +61,8 @@ export default function Home() {
             <Image className={styles.arrow}
                                 src="/109520-200.png"
                                 alt="right arrow"
-                                height={50}
-                                width={50}
+                                 height={75}
+                                width={75}
                                 priority
                               />
        </a>           
