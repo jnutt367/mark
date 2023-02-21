@@ -37,8 +37,8 @@ export default function Home() {
            </div>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
-            <Image className={styles.arrow}
-                                src="/109520-200.png"
+         <Image className={styles.arrow}
+                                src="/chevron-left.svg"
                                 alt="Left arrow"
                                 height={75}
                                 width={75}
@@ -47,8 +47,9 @@ export default function Home() {
        </a>
 
          <a href="#PayPalButton">
+          
            <Image
-                                src="/SCROLL-DOWN-button-kopie1.gif"
+                                src="/chevron-down.svg"
                                 alt="Donate Button"
                                 height={75}
                                 width={75}
@@ -58,8 +59,8 @@ export default function Home() {
         </a> 
            
         <a href="https://luke-three.vercel.app/">
-            <Image className={styles.arrow}
-                                src="/109520-200.png"
+           <Image className={styles.arrow}
+                                src="/chevron-right.svg"
                                 alt="right arrow"
                                  height={75}
                                 width={75}
