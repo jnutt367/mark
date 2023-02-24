@@ -68,8 +68,8 @@
 }
 .arrow {
     border-radius: 50%;
-    height: 50px;
-    width: 50px;
+    height: 25px;
+    width: 25px;
 }
 .footer a {
     display: flex;
