@@ -28,8 +28,8 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/illustration-jesus-baptized-by-john-baptist-biblical-series_29028-345.webp"
-                                alt="Jesus"
+                                src="/last-supper.jpg"
+                                alt="the Last supper"
                                  height={900}
                                 width={2000}
                                 priority
