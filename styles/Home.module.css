@@ -271,13 +271,13 @@
 
 .card {
     background-image: url(/gods-finger.jpg);
-     background-repeat: no-repeat;
+    background-repeat: no-repeat;
     background-attachment: fixed;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: auto;
+    background-size: cover;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
