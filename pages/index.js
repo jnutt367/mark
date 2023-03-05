@@ -393,7 +393,7 @@ Jesus Heals a Deaf and Mute Man
           <div
             className={styles.card}
           >
-            <h2  className={styles.chapter}>Mark Chapter VIII</h2>
+            <h2 className={styles.chapter}> Mark Chapter VIII</h2>
             <p>
             Jesus Feeds the Four Thousand
 8 During those days another large crowd gathered. Since they had nothing to eat, Jesus called his disciples to him and said, 2 “I have compassion for these people; they have already been with me three days and have nothing to eat. 3 If I send them home hungry, they will collapse on the way, because some of them have come a long distance.”
