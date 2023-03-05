@@ -698,7 +698,7 @@ The Widow’s Offering
           <div
             className={styles.card}
           >
-           X <h2  className={styles.chapter}>Mark Chapter XIII</h2>
+            <h2  className={styles.chapter}>Mark Chapter XIII</h2>
             <p>
             The Destruction of the Temple and Signs of the End Times
 13 As Jesus was leaving the temple, one of his disciples said to him, “Look, Teacher! What massive stones! What magnificent buildings!”
