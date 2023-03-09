@@ -68,7 +68,11 @@
   position:relative;
   top: 10px;
 }
-
+.fund {
+    text-align: center;
+    color: white;
+    font-family: cursive, Fantasy;
+}
 
 .image {
     background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
