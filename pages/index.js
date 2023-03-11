@@ -68,7 +68,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>As Jesus started on his way, a man ran up to him and fell on his knees before him. "Good teacher," he asked, "what must I do to inherit eternal life?"</p>
+      <p className={styles.fund}>As Jesus started on his way, a man ran up to him and fell on his knees before him. "Good teacher," he asked, "what must I do to inherit eternal life?" (Mark 10:17)</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
