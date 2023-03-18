@@ -68,7 +68,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>"The beginning of the good news about Jesus the Messiah" (Mark 1:1)</p>
+      <p className={styles.fund}>(Mark 14:22) "Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this is my body.”</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
