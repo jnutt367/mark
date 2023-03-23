@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/last-supper.jpg"
+                                src="/supper.gif"
                                 alt="the Last supper"
                                  height={900}
                                 width={2000}
@@ -68,7 +68,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>(Mark 14:22) "Jesus took bread, and when he had given thanks, he broke it and gave it to his disciples, saying, “Take it; this is my body.”</p>
+      <p className={styles.fund}>(Mark 14:22-24) “Take it; this is my body." {...} "This is my blood of the covenant, which is poured out for many,” he said to them. ”</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
