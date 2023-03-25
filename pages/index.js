@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/supper.gif"
+                                src="/abody.webp"
                                 alt="the Last supper"
                                  height={900}
                                 width={2000}
@@ -68,7 +68,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>(Mark 14:22-24) “Take it; this is my body. ... This is my blood of the covenant, which is poured out for many," he said to them.”</p>
+      <p className={styles.fund}>(Mark 1:40) 'And a leper *came to Jesus, beseeching Him and falling on his knees before Him, and saying, “If You are willing, You can make me clean.”'</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
