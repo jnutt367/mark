@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/abody.webp"
+                                src="/jesus_agua.gif"
                                 alt="the Last supper"
                                  height={900}
                                 width={2000}
@@ -68,7 +68,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>(Mark 1:40) 'And a leper *came to Jesus, beseeching Him and falling on his knees before Him, and saying, “If You are willing, You can make me clean.”'</p>
+      <p className={styles.fund}>(Mark 1:10-11) "he saw heaven being torn open and the Spirit descending on him like a dove. 11 And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
