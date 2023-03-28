@@ -46,17 +46,11 @@ export default function Home() {
                               />
        </a>
 
-         <a href="#PayPalButton">
-          
-           <Image
-                                src="/chevron-down.svg"
-                                alt="Donate Button"
-                                height={25}
-                                width={25}
-                                priority
-                              />
-          
-        </a> 
+         <a href="https://gofund.me/a2b590af">
+             <p className={styles.donate}>
+               SUPPORT
+               </p>
+       </a>
            
         <a href="https://luke-three.vercel.app/">
            <Image className={styles.arrow}
