@@ -92,9 +92,9 @@
     opacity: 1;
 }
 .donate {
-  background-color:blue;
+  background-color:white;
   opacity: 0.8;
-  color: white;
+  color: black;
   height: 28pxpx;
   border-radius: 10px;
   padding: 5px;
