@@ -924,8 +924,20 @@ The Burial of Jesus
 
             </p>
           </div>
+
         </div>
+  
 </div>
+  <div  className={styles.image}>
+       <Image 
+                                src="/workshop.png"
+                                alt="the Last supper"
+                                 height={900}
+                                width={2000}
+                                priority
+                              />
+           </div>
+
         <p className={styles.description}> 
         <code className={styles.publisher}>
         Coded, Published & Deployed by His servant: Jason Daniel Nutt 
