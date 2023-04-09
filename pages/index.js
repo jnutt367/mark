@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/jesus_agua.gif"
+                                src="/easter-empty-tomb.gif"
                                 alt="the Last supper"
                                  height={900}
                                 width={2000}
@@ -63,7 +63,7 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>(Mark 1:10-11) "he saw heaven being torn open and the Spirit descending on him like a dove. 11 And a voice came from heaven: “You are my Son, whom I love; with you I am well pleased.”</p>
+      <p className={styles.fund}>(Mark 16:6) “You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here. See the place where they laid him.”</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
