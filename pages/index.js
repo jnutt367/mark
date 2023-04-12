@@ -27,13 +27,15 @@ export default function Home() {
         MARK
         </h1>
          <div  className={styles.image}>
-       <Image 
+    /*  <Image 
                                 src="/BasicJitteryFrogmouth-size_restricted.gif"
                                 alt="the Last supper"
                                  height={900}
                                 width={2000}
                                 priority
-                              />
+                              /> */
+           
+           <iframe width="560" height="315" src="https://www.youtube.com/embed/EoSMmUAusik" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
            </div>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
