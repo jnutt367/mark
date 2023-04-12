@@ -35,7 +35,7 @@ export default function Home() {
                                 priority
                               /> */
            
-          <iframe width="100%" height="300" src="https://www.youtube.com/embed/zr54VtQNbgg" title="YouTube video player" frameborder="4" allow="accelerometer; autoPlay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+          <iframe width="100%" height="300" src="https://www.youtube.com/embed/zr54VtQNbgg" title="YouTube video player" frameborder="4" allow="accelerometer; autoplay="true"; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
            </div>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
