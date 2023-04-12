@@ -28,7 +28,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
        <Image 
-                                src="/easter-empty-tomb.gif"
+                                src="/BasicJitteryFrogmouth-size_restricted.gif"
                                 alt="the Last supper"
                                  height={900}
                                 width={2000}
