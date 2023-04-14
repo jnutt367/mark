@@ -36,7 +36,7 @@ export default function Home() {
                               /> 
            
 <iframe width="100%" height="175" src="https://www.youtube.com/embed/IR7vpGuOztc" title="YouTube video player" frameborder="5" alloe="autoplay" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          /*<iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>*/
+          
            </div>
 
 
@@ -951,7 +951,7 @@ The Burial of Jesus
                           <p className={styles.fund}>Help Fund This Bible</p>  
                       </a>
         </p>
-      </main>
+<iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      </main>
 
       <footer className={styles.footer}>
         <a
