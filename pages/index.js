@@ -26,17 +26,19 @@ export default function Home() {
         MARK
         </h1>
          <div  className={styles.image}>
-                          <Image 
-                                src="/BasicJitteryFrogmouth-size_restricted.gif"
-                                alt="the Last supper"
-                                 height={900}
+                              <Image 
+                                src="/Praying.png"
+                                alt="Nativity silent night gif"
+                                height={900}
                                 width={2000}
                                 priority
-                              /> 
-           
-<iframe width="100%" height="175" src="https://www.youtube.com/embed/IR7vpGuOztc" title="YouTube video player" frameborder="5" alloe="autoplay" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-          
-           </div>
+                              />
+                     </a>
+                
+                            
+ 
+<iframe width="100%" height="200" src="https://www.youtube.com/embed/J0p9Qp1cyfk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>       
+    </div>  
 
 
               <div className={styles.nav}>               
@@ -51,10 +53,13 @@ export default function Home() {
        </a>
 
          <a href="https://gofund.me/a2b590af">
-             <p className={styles.donate}>
-               Support <br />
-                  Creator
-               </p>
+              <Image className={styles.arrow}
+                                src="/fundme.png"
+                                alt="funding-icon"
+                                height={75}
+                                width={75}
+                                priority
+                              /> 
        </a>
            
         <a href="https://luke-three.vercel.app/">
