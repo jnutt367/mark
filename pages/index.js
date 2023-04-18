@@ -33,7 +33,7 @@ export default function Home() {
                                 width={2000}
                                 priority
                               />
-                     </a>
+                 
                 
                             
  
