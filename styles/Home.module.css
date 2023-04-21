@@ -7,9 +7,7 @@
 */
 .container {
   background-color: black;
-  background-image:url(/monophy.gif);
-  background-size: cover;
-  background-repeat: no-repeat;  
+  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -84,7 +82,7 @@
 }
 
 .image {
-    background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
+    background-image: url(/monophy.gif);
     background-color: black;
     opacity: 0.5;
     margin-top: -50px;
