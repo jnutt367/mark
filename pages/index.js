@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
                               <Image 
-                                src="/Praying.png"
+                                src="/green_jesus.jpeg"
                                 alt="Nativity silent night gif"
                                 height={900}
                                 width={2000}
@@ -37,9 +37,9 @@ export default function Home() {
                 
                     </div>          
  
-
-<iframe width="100%" height="250" src="https://www.youtube.com/embed/dhsAjjz8WLk" title="YouTube video player" frameborder="2" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
-                   
+<div className={styles.iframe}>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/HGHqu9-DtXk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</div>                   
 
 
               <div className={styles.nav}>               
