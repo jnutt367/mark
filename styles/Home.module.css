@@ -7,7 +7,6 @@
 */
 .container {
   background-color: black;
-  background-image: url(/frmilky_way_galaxy_star-image-kybd7u7d.jpg);
   width: 100%;
   display: grid;
   align-items: center;
@@ -39,7 +38,7 @@
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
-  font-size: 52px;
+  font-size: 64px;
   padding-left: 5px;
   display: grid;
   align-items: center;
@@ -64,10 +63,11 @@
   background-color:  black;
   min-height: 100vh;  
   padding: 4rem 0;  
-  max-width: 900px;
-  background-size: cover;
   position:relative;
   top: 10px;
+}
+.iframe {
+       width: 100%;
 }
 .fund {
    text-align: center;
@@ -82,7 +82,10 @@
 }
 
 .image {
-    background-image: url(/monophy.gif);
+    /*background-image: url(/matthew_black.jpeg);*/
+    background-size: contain;
+    background-repeat: no-repeat;
+    text-align: center;
     background-color: black;
     opacity: 0.5;
     margin-top: -50px;
@@ -90,8 +93,10 @@
     padding-right: 100px;
     display: grid;
     place-items: center;
-    max-height: 700px; 
-   border: 50px 0 10px solid #ED7014;
+    align-items: center;
+    justify-content: center;
+    max-height: 900px; 
+    alig-items: center;
     opacity: 1;
 }
 .donate {
@@ -248,7 +253,7 @@
 }
 
 .nav {
-    background-color: #ED7014;
+    background-color: white;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -270,11 +275,12 @@
 }
 
 .grid {
+    background-color: white;
+    color: black;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
-    max-width: 1400px;
 }
 
 .h2 {
@@ -301,14 +307,13 @@
 }
 
 .card {
-      background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
+    background-image: url(/cross-hands-god-jesus-religion-faith-pray-prayer-christian.jpg);
     background-repeat: no-repeat;
-    background-attachment: fixed;
     background-position: center;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
-    background-size: cover;
+    background-size: contain;
     display: grid;
     place-items: center;
     background-repeat: no-repeat;
@@ -318,7 +323,7 @@
     padding: 0rem;
     padding-top: -25px;
     text-align: left;
-    max-height: 700px;
+    max-height: 400px;
     max-width: 400px;
     background-color: black;
     overflow: scroll;
@@ -328,7 +333,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #ED7014;
+    background-color: white;
     color: black;
     opacity: 1;
     position: sticky;
@@ -425,8 +430,13 @@
 
 @media (min-width: 1080px) {
          .image {
-        padding-left: 200px;
-        padding-right: 200px;     
+        padding-left: 300px;
+        padding-right: 300px;     
+    }
+    
+           .grid {
+        grid-template-columns: 200px 200px 200px;
+        
     }
 }
    
@@ -460,3 +470,4 @@
         margin-left: 0;
     }
 }
+
