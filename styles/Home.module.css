@@ -38,7 +38,7 @@
   margin-top: 0;
   font-family: Ariel, sans, , serif, sans-serif, cursive, fantasy;
   color: white;
-  font-size: 64px;
+  font-size: 56px;
   padding-left: 5px;
   display: grid;
   align-items: center;
@@ -253,7 +253,7 @@
 }
 
 .nav {
-    background-color: #46923c;
+    background-color: #00A36C;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -275,7 +275,7 @@
 }
 
 .grid {
-    background-color: #46923c;
+    background-color: #00A36C;
     color: black;
     display: flex;
     align-items: center;
@@ -333,7 +333,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #46923c;
+    background-color: #00A36C;
     color: white;
     opacity: 1;
     position: sticky;
