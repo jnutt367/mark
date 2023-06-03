@@ -310,6 +310,8 @@
     background-image: url(/green_jesus.jpeg);
     background-repeat: no-repeat;
     background-position: center;
+    border-radius: 15px 50px 30px;
+    box-shadow: lightblue 0px 5px 15px;
     background-position-x: center;
     background-position-y: center;
     background-origin: content-box;
