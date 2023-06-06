@@ -38,7 +38,7 @@ export default function Home() {
                      
  
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/HGHqu9-DtXk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 </div>                   
 
 
@@ -73,7 +73,10 @@ export default function Home() {
                               />
        </a>           
         </div>
-      <p className={styles.fund}>(Mark 16:6) “You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here. See the place where they laid him.”</p>
+    <div className={styles.iframe}>
+    <iframe width="100%" height="315" src="https://www.youtube.com/embed/HGHqu9-DtXk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+    </div>    
+<p className={styles.fund}>(Mark 16:6) “You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here. See the place where they laid him.”</p>
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
