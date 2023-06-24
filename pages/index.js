@@ -41,7 +41,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-        Description of the gospel according to Mark                                  
+         Mark which stresses facts and actions rather than themes & topics, is the most exciting & miraculous account of the life of Jesus.                                  
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
