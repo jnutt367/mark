@@ -347,7 +347,7 @@
     border-radius: 15px 50px 30px;
     overflow: hidden;
     text-decoration: none;
-    border: 3px solid green;
+    border: 3px solid black;
     transition: color 0.15s ease, border-color 0.7s ease;
     font-family: monospace;
     box-shadow: lightblue 0px 5px 15px;
