@@ -27,8 +27,8 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
                               <Image 
-                                src="/green_jesus.jpeg"
-                                alt="Nativity silent night gif"
+                                src="/risen_2.png"
+                                alt="Jesus in clouds"
                                 height={900}
                                 width={2000}
                                 priority
