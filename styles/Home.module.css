@@ -253,7 +253,7 @@
 }
 
 .nav {
-    background-color: #00A36C;
+    background-color: #00a36c;
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -275,7 +275,7 @@
 }
 
 .grid {
-    background-color: #00A36C;
+    background-color:#00a36c;
     color: black;
     display: flex;
     align-items: center;
@@ -307,7 +307,7 @@
 }
 
 .card {
-    background-image: url(/green_jesus.jpeg);
+    background-image: url(/risen_15);
     background-repeat: no-repeat;
     background-position: center;
     border-radius: 15px 50px 30px;
@@ -335,7 +335,7 @@
     font-family: monospace;
 }
 .chapter {
-    background-color: #00A36C;
+    background-color:#00a36c;
     color: white;
     opacity: 1;
     position: sticky;
@@ -358,7 +358,7 @@
 .card:focus,
 .card:active {
     display: inline;
-    color: #800808;
+    color: #00a36c;
     opacity: 1;
     border: 6px solid #4a6741;
     background-image: url(/paper.jpg);
