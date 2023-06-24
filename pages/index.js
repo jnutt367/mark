@@ -938,23 +938,9 @@ The Burial of Jesus
 
             </p>
           </div>
-
-        </div>
-  
-</div>
-  
-  <div  className={styles.image}>
-       <Image 
-                                src="/workshop.png"
-                                alt="the Last supper"
-                                 height={900}
-                                width={2000}
-                                priority
-                              />
-           </div>
-
-                               
-    </main>
-   </div>  
+      </div> 
+    </div>
+  </main>
+ </div>  
   )
 }
