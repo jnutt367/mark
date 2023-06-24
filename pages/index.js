@@ -40,8 +40,9 @@ export default function Home() {
 
 
 </div>                   
-
-
+<p className={styles.parables}>
+        Description of the gospel according to Mark                                  
+</p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
          <Image className={styles.arrow}
@@ -76,7 +77,7 @@ export default function Home() {
     <div className={styles.iframe}>
     <iframe width="100%" height="315" src="https://www.youtube.com/embed/HGHqu9-DtXk" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
     </div>    
-<p className={styles.fund}>(Mark 16:6) “You are looking for Jesus the Nazarene, who was crucified. He has risen! He is not here. See the place where they laid him.”</p>
+
         <div className={styles.grid}>
           <div className={styles.card}>
            <h2  className={styles.chapter}>Mark Chapter I</h2>
@@ -941,6 +942,7 @@ The Burial of Jesus
         </div>
   
 </div>
+  </main>
   <div  className={styles.image}>
        <Image 
                                 src="/workshop.png"
@@ -951,28 +953,10 @@ The Burial of Jesus
                               />
            </div>
 
-        <p className={styles.description}> 
-        <code className={styles.publisher}>
-        Coded, Published & Deployed by His servant: Jason Daniel Nutt 
-        </code>
- <a href="https://gofund.me/a2b590af" target="_blank">  
-                          <p className={styles.fund}>Help Fund This Bible</p>  
-                      </a>
-        </p>
+     
 <iframe width="100%" height="175" src="https://www.youtube.com/embed/zr54VtQNbgg?autoplay=1&mute=1" title="YouTube video player" frameborder="5" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>      </main>
 
-      <footer className={styles.footer}>
-        <a
-          href="https://vercel.com?utm_source=create-next-app&utm_medium=default-template&utm_campaign=create-next-app"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Powered by{' '}
-          <span className={styles.logo}>
-            <Image src="/vercel.svg" alt="Vercel Logo" width={72} height={16} />
-          </span>
-        </a>
-      </footer>
+   
     </div>
   )
 }
