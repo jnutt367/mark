@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
                               <Image 
-                                src="/risen_2.png"
+                                src="/mark.png"
                                 alt="Jesus in clouds"
                                 height={900}
                                 width={2000}
