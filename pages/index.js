@@ -27,7 +27,7 @@ export default function Home() {
         </h1>
          <div  className={styles.image}>
                               <Image 
-                                src="/mark.png3"
+                                src="/mark.png"
                                 alt="Jesus in clouds"
                                 height={900}
                                 width={2000}
@@ -41,7 +41,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-         Mark which stresses facts and actions rather than themes & topics, is the most exciting & miraculous account of the life of Jesus.                                  
+         Mark stresses facts & actions rather than themes & topics, & is the most exciting & miraculous account of the life of Jesus.                                  
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
