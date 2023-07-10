@@ -287,13 +287,6 @@
     border-radius: 50%;
 }
 
-.nav a:hover {
-    scale: 1.1;
-    background-color: #00a36c;
-    opacity: 0.7;
-    border: 2px dotted whitesmoke;
-    border-radius: 50%;
-}
 .button {
     color: white;
     height: 30px;
