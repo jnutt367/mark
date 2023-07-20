@@ -54,10 +54,10 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://the-word-of-god.vercel.app/">
+         <a href="https://cash.app/$JNutt367">
               <Image className={styles.arrow}
-                                src="/home.webp"
-                                alt="home"
+                                src="/donations_please.webp"
+                                alt="donations_please.webp"
                                 height={75}
                                 width={90}
                                 priority
