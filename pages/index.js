@@ -948,7 +948,7 @@ The Burial of Jesus
   
   </main>
 
-    <main id="first_timothy" className={styles.main}>
+    <main id="second_timothy" className={styles.main}>
        
       <div className={styles.hero}>
                 <h2 className={styles.holy}>THE WORD</h2>
