@@ -940,7 +940,7 @@ The Burial of Jesus
           </div>
 
              <div className={styles.iframe}>
-          <iframe width="100%" height="600" src="https://www.youtube.com/embed/OVRixfameGY" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/OVRixfameGY" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
               </div>  
       </div> 
   
