@@ -1036,7 +1036,7 @@ The Burial of Jesus
                                                       
                                                     
                                                       
-<  </p>
+ </p>
           </div>
 
           <div className={styles.card}>
