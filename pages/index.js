@@ -960,7 +960,7 @@ The Burial of Jesus
         </h1>
          <div  className={styles.image}>
                               <Image 
-                                src="/mark.png"
+                                src="/paul.png"
                                 alt="Jesus in clouds"
                                 height={900}
                                 width={2000}
@@ -974,7 +974,7 @@ The Burial of Jesus
 
 </div>                   
 <p className={styles.parables}>
-         Timothy had a second letter written to him & it's description will be here                      
+         Paul seems to know that he has little chance of surviving through his current imprisonment, as he writes Timothy...                  
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/">
