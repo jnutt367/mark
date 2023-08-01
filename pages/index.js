@@ -977,7 +977,7 @@ The Burial of Jesus
          Paul knows that he has little chance of surviving through his current imprisonment, he writes Timothy to teach him how to lead the church...                 
 </p>
               <div className={styles.nav}>               
-       <a href="https://matthew-coral.vercel.app/">
+       <a href="https://matthew-coral.vercel.app/#first_timothy">
          <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
@@ -997,7 +997,7 @@ The Burial of Jesus
                               /> 
        </a>
            
-        <a href="https://luke-three.vercel.app/">
+        <a href="https://luke-three.vercel.app/#titus">
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
