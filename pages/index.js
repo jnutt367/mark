@@ -38,7 +38,7 @@ export default function Home() {
          Mark stresses facts & actions rather than themes & topics, & is the most exciting & miraculous account of the life of Jesus.                                  
 </p>
               <div className={styles.nav}>               
-       <a href="https://matthew-coral.vercel.app/">
+       <a href="https://matthew-coral.vercel.app/" target="_blank">
          <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
@@ -48,7 +48,7 @@ export default function Home() {
                               />
        </a>
 
-         <a href="https://cash.app/$JNutt367">
+         <a href="https://cash.app/$JNutt367" target="_blank">
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
@@ -58,7 +58,7 @@ export default function Home() {
                               /> 
        </a>
            
-        <a href="https://luke-three.vercel.app/">
+        <a href="https://luke-three.vercel.app/" target="_blank">
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
