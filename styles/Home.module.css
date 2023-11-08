@@ -278,13 +278,12 @@
     justify-content: space-around;
     position: sticky;
 }
-
+.nav a {
+    opacity: 0.9;
+}
 .nav a:hover {
     scale: 1.1;
-    background-color: black;
-    opacity: 0.9;
-    border: 2px dotted whitesmoke;
-    border-radius: 50%;
+    opacity: 1;
 }
 
 .button {
