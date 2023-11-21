@@ -36,12 +36,12 @@ export default function Home() {
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/" target="_blank">
-    <p>Previous</p>
+    <p>Prev</p>
          <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                 height={50}
-                                width={50}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>
@@ -51,8 +51,8 @@ export default function Home() {
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={50}
-                                width={50}
+                                   height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
@@ -62,8 +62,8 @@ export default function Home() {
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={50}
-                                width={50}
+                               height={25}
+                                width={25}
                                 priority
                               />
        </a>           
