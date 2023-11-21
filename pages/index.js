@@ -32,7 +32,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-         Mark stresses facts & actions rather than themes & topics, & is the most exciting & miraculous account of the life of Jesus.                                  
+         The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/" target="_blank">
