@@ -14,6 +14,7 @@
   justify-content: center;
   text-align: left;
   position: relative;
+  background-image: linear-gradient(to bottom right, black, #00a36c);    
 }
 
 
@@ -68,7 +69,7 @@
   display: grid;
   align-items: center;
   justify-content: center;  
-  background-color:  black;
+  background-color:  transparent;
   min-height: 100vh;  
   padding: 4rem 0;
   position:relative;
@@ -271,6 +272,7 @@
 
 .nav {
     background-color: #00a36c;
+    background-image: linear-gradient(to bottom right, #00a36c, black);    
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -303,6 +305,7 @@
 
 .grid {
     background-color: #00a36c;
+    background-image: linear-gradient(to bottom right, black, #00a36c);        
     color: white;
     display: flex;
     align-items: center;
