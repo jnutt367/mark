@@ -281,6 +281,7 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black inset;
+    color: gold;
 }
 .nav a {
     opacity: 0.9;
