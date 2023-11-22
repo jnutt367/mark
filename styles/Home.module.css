@@ -211,10 +211,10 @@
 
 
 .title {
-  color: white;
+  color: gold;
   position: sticky; 
-  background-color: black;
-  opacity: 0.5;
+  background-color: transparent;
+  opacity: 0.8;
   padding-top: 40px;
   z-index: 2;
   top: -45px;
