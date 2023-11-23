@@ -369,6 +369,7 @@
 }
 .chapter {
     background-color: #00a36c;
+    background-image: linear-gradient(to bottom right, #00a36c, #052b09);       
     color: white;
     opacity: 0.8;
     opacity: 1;
