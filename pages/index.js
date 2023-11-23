@@ -47,7 +47,7 @@ export default function Home() {
        </a>
 
          <a href="https://cash.app/$JNutt367" target="_blank">
-                              <p>Giving</p>
+                              <p>Give</p>
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
