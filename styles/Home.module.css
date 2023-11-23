@@ -14,7 +14,7 @@
   justify-content: center;
   text-align: left;
   position: relative;
-  background-image: linear-gradient(to bottom right, black, #00a36c);    
+  background-image: linear-gradient(to bottom right, #052b09, #00a36c);    
 }
 
 
@@ -272,7 +272,7 @@
 
 .nav {
     background-color: #00a36c;
-    background-image: linear-gradient(to bottom right, #00a36c, black);    
+    background-image: linear-gradient(to bottom right, #00a36c, #052b09);    
     opacity: 1;
     padding: 5px;
     display: flex;
@@ -280,7 +280,7 @@
     justify-content: space-around;
     position: sticky;
     border: 1px solid gold;
-    box-shadow: 5px 10px 20px black inset;
+    box-shadow: 5px 10px 20px black;
     color: gold;
 }
 .nav a {
@@ -306,14 +306,14 @@
 
 .grid {
     background-color: #00a36c;
-    background-image: linear-gradient(to bottom right, black, #00a36c);        
+    background-image: linear-gradient(to bottom right, #052b09, #00a36c);        
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
     flex-wrap: wrap;
     border: 1px solid gold;
-    box-shadow: 5px 10px 20px black inset;  
+    box-shadow: 5px 10px 20px black;  
 }
 
 .h2 {
