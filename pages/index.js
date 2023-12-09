@@ -38,7 +38,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-          The good news about the Son of God, as it is written in Isaiah the prophet:
+          "... the Son of God, as it is written in Isaiah the prophet:
 “I will send my messenger ahead of you,
     who will prepare your way”   
           
@@ -976,7 +976,7 @@ The Burial of Jesus
 
 </div>                   
 <p className={styles.parables}>
-         Paul knows that he has little chance of surviving through his current imprisonment, he writes Timothy to teach him how to lead the church...                 
+         Paul knows that he has little chance of surviving through his current imprisonment, he writes Timothy to teach him how to lead..                
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/#first_timothy">
