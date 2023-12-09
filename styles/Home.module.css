@@ -605,7 +605,10 @@
     width: 55%; 
     top: 400px;
     margin-top: -400px;
-   }    
+    height: 362px;
+ }   
+
+    
   .parables {
     display: grid;
     text-align: center;
