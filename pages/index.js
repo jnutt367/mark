@@ -958,7 +958,7 @@ The Burial of Jesus
         <h1 className={styles.title}>
         II TIMOTHY 
         </h1>
-         <div  className={styles.image}>
+         <div  className={styles.iframe1}>
                               <Image 
                                 src="/paul.png"
                                 alt="Jesus in clouds"
