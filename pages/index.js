@@ -38,7 +38,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-         The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:
+          The good news about the Son of God, as it is written in Isaiah the prophet:
 “I will send my messenger ahead of you,
     who will prepare your way”   
           
