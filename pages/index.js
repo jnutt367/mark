@@ -25,7 +25,7 @@ export default function Home() {
         <h1 className={styles.title}>
         MARK
         </h1>
-         <div  className={styles.iframe}>
+         <div  className={styles.iframe1}>
                   <iframe width="100%" height="315" src="https://www.youtube.com/embed/ug4wWUad2yw?si=Aep1Dvd3-x6MVt31" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
  
 
@@ -933,7 +933,7 @@ The Burial of Jesus
             </p>
           </div>
 
-             <div className={styles.iframe}>
+             <div className={styles.iframe1}>
           <iframe width="100%" height="315" src="https://www.youtube.com/embed/OVRixfameGY" title="YouTube video player" frameborder="1" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>  
               </div>  
       </div> 
