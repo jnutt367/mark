@@ -39,8 +39,10 @@ export default function Home() {
 </div>                   
 <p className={styles.parables}>
          The beginning of the good news about Jesus the Messiah, the Son of God, as it is written in Isaiah the prophet:
-</p>
-              <div className={styles.nav}>               
+“I will send my messenger ahead of you,
+    who will prepare your way”   
+          
+</p>           <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/" target="_blank">
     <p>Prev</p>
          <Image className={styles.arrow}
