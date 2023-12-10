@@ -38,7 +38,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-          "as it is written in Isaiah the prophet:
+          "as it is written {...}
 “I will send my messenger ahead of you,
     who will prepare your way”   
           
