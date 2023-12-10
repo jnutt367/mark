@@ -38,7 +38,7 @@ export default function Home() {
 
 </div>                   
 <p className={styles.parables}>
-          
+         "As it is written..." 
 “I will send my messenger ahead of you,
     who will prepare your way”   
           
