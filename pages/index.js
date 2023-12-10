@@ -976,7 +976,7 @@ The Burial of Jesus
 
 </div>                   
 <p className={styles.parables}>
-         Paul knows that he has little chance of surviving through his current imprisonment, he writes Timothy to teach him how to lead..                
+         Paul, with little chance of surviving imprisonment, writes Timothy to teach him how to lead God's people                
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/#first_timothy">
