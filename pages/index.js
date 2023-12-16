@@ -967,13 +967,7 @@ The Burial of Jesus
         II TIMOTHY 
         </h1>
          <div  className={styles.iframe1}>
-                              <Image 
-                                src="/paul.png"
-                                alt="Jesus in clouds"
-                                height={900}
-                                width={2000}
-                                priority
-                              />
+                          <iframe width="100%" height="300" src="https://www.youtube.com/embed/KgVLE_JVhBs?si=4IosKu4ij7Qkk-7y&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                  
                 
                      
@@ -986,31 +980,34 @@ The Burial of Jesus
 </p>
               <div className={styles.nav}>               
        <a href="https://matthew-coral.vercel.app/#first_timothy">
+                                  <p>Prev</p>
          <Image className={styles.arrow}
                                 src="/previous.webp"
                                 alt="Left arrow"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               />
        </a>
 
          <a href="https://cash.app/$JNutt367">
+ <p>Give</p>                                  
               <Image className={styles.arrow}
                                 src="/donations_please.webp"
                                 alt="donations_please.webp"
-                                height={75}
-                                width={90}
+                                height={25}
+                                width={25}
                                 priority
                               /> 
        </a>
            
         <a href="https://luke-three.vercel.app/#titus">
+ <p>Next</p>                                      
            <Image className={styles.arrow}
                                 src="/next.webp"
                                 alt="right arrow"
-                                 height={75}
-                                width={90}
+                                 height={25}
+                                width={25}
                                 priority
                               />
        </a>           
