@@ -20,15 +20,14 @@
     padding: 10px;
     position: relative;
     animation-name: iframe1;
-    animation-duration: 1s;  
+    animation-duration: 3s;  
     animation-iteration-count: 1;
     animation-timing-function: ease-out;  
 }
 
 @keyframes iframe1 {
-  0%  {opacity:0; left: -500px;}  
-  90% {opacity: 0.3;}
-  100% {opacity: 1; left: 0px}  
+  0%  {opacity:0; left: -1000px;}  
+  100% {opacity: 1; left: 0px;}  
 }
 
 .holy {
