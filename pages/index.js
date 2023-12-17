@@ -13,7 +13,7 @@ export default function Home() {
 
     
     <link
-          href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@400..700&display=swap, Montserrat,Roboto"
+          href="https://fonts.googleapis.com/css2?family=Nunito:wght@400..700&display=swap, Montserrat,Roboto"
           rel="stylesheet"
         />   
 
