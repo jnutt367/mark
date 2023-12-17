@@ -966,7 +966,7 @@ The Burial of Jesus
         <h1 className={styles.title}>
         II TIMOTHY 
         </h1>
-         <div  className={styles.iframe}>
+         <div  className={styles.iframe1}>
                           <iframe width="100%" height="300" src="https://www.youtube.com/embed/KgVLE_JVhBs?si=4IosKu4ij7Qkk-7y&autoplay=1&mute=1" title="YouTube video player" frameborder="10" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
                  
                 
