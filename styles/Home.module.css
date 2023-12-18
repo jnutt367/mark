@@ -192,7 +192,8 @@
     border-radius: 50%;
     height: 25px;
     width: 25px;
-}
+    font-family: Lato;
+        }
 .footer a {
     display: flex;
     justify-content: center;
