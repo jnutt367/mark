@@ -21,7 +21,8 @@ export default function Home() {
             rel="stylesheet"  
               />      
                       <link href="https://fonts.googleapis.com/css2?family=Montserrat:ital@1&family=Nanum+Brush+Script&display=swap" 
-              rel="stylesheet">
+              rel="stylesheet" 
+                />
             
       </Head>
     
