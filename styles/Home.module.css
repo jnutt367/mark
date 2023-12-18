@@ -208,7 +208,7 @@
     list-style: none;
     font-size: xx-large;
     padding-top: 3rem;
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-family: Lato, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
 }
 
 .donateButton {
@@ -431,7 +431,7 @@
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 0.7s ease;
-    font-family: monospace;
+    font-family:Lato;
     box-shadow: lightblue 0px 5px 15px;
 }
 
@@ -460,7 +460,7 @@
     text-decoration: none;
     border: 3px solid #eaeaea;
     transition: color 0.15s ease, border-color 0.7s ease;
-    font-family: monospace;
+    font-family: Lato;
     box-shadow: lightblue 0px 5px 15px;
 }
 .chapter {
