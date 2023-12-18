@@ -123,7 +123,7 @@
     margin-top: 25px;
     top: -15px;
     text-shadow: 2px 2px 4px #000000;
-    font-family: sans, sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, sans, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
     animation-name: parables;
@@ -320,7 +320,7 @@
     position: sticky;
     border: 1px solid gold;
     box-shadow: 5px 10px 20px black;
-    font-family: sans-serif;
+    font-family: Nanum Brush Script, sans-serif;
 }
 
 .nav2 {
@@ -333,7 +333,7 @@
     flex-direction: row;
     justify-content: space-around;
     position: sticky;
-    font-family: sans-serif;
+    font-family: Nanum Brush Script, sans-serif;
 }
 
 .nav2 a:hover {
@@ -513,7 +513,7 @@
     cursor: all-scroll;
     background-color: white;
     overflow: scroll;
-     font-family: sans-serif, "Times New Roman", Times, serif;
+     font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 .card h2 {
@@ -531,7 +531,7 @@
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
-    font-family: sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 .card p:hover {
@@ -555,7 +555,7 @@
     background-size: cover;
     cursor: all-scroll;
     overflow: scroll;
-    font-family: sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 
@@ -574,7 +574,7 @@
     padding: 1.5rem;
     font-size: 1.75rem;
     line-height: 1.5;
-    font-family: sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
 }
 
 .card2 p:hover {
@@ -652,7 +652,7 @@
     border-radius: 15px;
     background-image: linear-gradient(to bottom right, #C7E0D4,#006600); 
     opacity:0.7;  
-    font-family: sans-serif, "Times New Roman", Times, serif;
+    font-family: Nanum Brush Script, sans-serif, "Times New Roman", Times, serif;
     font-weight: 200;
     font-size: 1.5em;
   }
