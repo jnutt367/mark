@@ -643,8 +643,8 @@
   .parables {
     display: grid;
     text-align: center;
-    color: black;
-    text-shadow: 2px 2px whitesmoke;
+    color:white;
+    text-shadow: 2px 2px #000000;
     position: relative;
     padding-right: 50px;
     padding-left: 50px;
